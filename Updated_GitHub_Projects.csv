@@ -4,12 +4,12 @@ choreo-shcedule-trigger;Ballerina;https://github.com/ammarisme/choreo-shcedule-t
 choreo-graphql;;https://github.com/ammarisme/choreo-graphql;;Mar 3, 2023
 web-crawler-ballerina;;https://github.com/ammarisme/web-crawler-ballerina;;Feb 28, 2023
 samples-apim;Forked from wso2/samples-apim;https://github.com/ammarisme/samples-apim;Shell / Java / JavaScript / Dockerfile / Ballerina;Feb 28, 2023
-choreo-demo-react-app;;https://github.com/ammarisme/choreo-demo-react-app;JavaScript / HTML / CSS / Dockerfile / Other;Feb 23, 2023
+choreo-demo-react-app;;https://github.com/ammarisme/choreo-demo-react-app;JavaScript / HTML / CSS / Dockerfile / Other / React / Testing Library;Feb 23, 2023
 choreo-hackathon;choreo-hackathon;https://github.com/ammarisme/choreo-hackathon;Ballerina;Feb 23, 2023
-choreo-samples;Forked from wso2/choreo-samples;https://github.com/ammarisme/choreo-samples;Ballerina / TypeScript / Other;Feb 17, 2023
+choreo-samples;Forked from wso2/choreo-samples;https://github.com/ammarisme/choreo-samples;Ballerina / TypeScript / Other / TypeScript;Feb 17, 2023
 docs-is;Forked from wso2/docs-is;https://github.com/ammarisme/docs-is;CSS / HTML / JavaScript / Java;Jan 20, 2023
 wso2-products;;https://github.com/ammarisme/wso2-products;;Nov 10, 2022
-patient-pay-frontend;;https://github.com/ammarisme/patient-pay-frontend;TypeScript / CSS / JavaScript;Oct 11, 2022
+patient-pay-frontend;;https://github.com/ammarisme/patient-pay-frontend;TypeScript / CSS / JavaScript / React / TypeScript / Emotion / ESLint;Oct 11, 2022
 patient-pay-backend;;https://github.com/ammarisme/patient-pay-backend;;Oct 10, 2022
 hacker-rank-python-challenges;Python challenges from hackerrank.com;https://github.com/ammarisme/hacker-rank-python-challenges;Jupyter Notebook;Sep 13, 2022
 unicorn;;https://github.com/ammarisme/unicorn;JavaScript / SCSS / Python / Other;Jul 15, 2022
@@ -49,21 +49,21 @@ report-pro;report-prod;https://github.com/ammarisme/report-pro;JavaScript / CSS;
 Distributed-Enterprises-and-Services-System-Network;;https://github.com/ammarisme/Distributed-Enterprises-and-Services-System-Network;HTML / JavaScript / C# / CSS / Python / PHP;Jun 3, 2017
 Manufacturing-System;;https://github.com/ammarisme/Manufacturing-System;;May 30, 2017
 pawn_broker_system;A system for a pawn broker shop;https://github.com/ammarisme/pawn_broker_system;;Nov 16, 2015
-thesellerstacksite;;https://github.com/ammarisme/thesellerstacksite;JavaScript / TypeScript / Other;Jun 21
-inventory-sync-api;;https://github.com/ammarisme/inventory-sync-api;TypeScript / Other;Jun 12
+thesellerstacksite;;https://github.com/ammarisme/thesellerstacksite;JavaScript / TypeScript / Other / React / Emotion / ESLint;Jun 21
+inventory-sync-api;;https://github.com/ammarisme/inventory-sync-api;TypeScript / Other / NestJS / Jest / TypeScript / ESLint / Prettier / Mongoose;Jun 12
 inventory-sync-scripts;;https://github.com/ammarisme/inventory-sync-scripts;JavaScript / Dockerfile;Jun 8
 flutter_ecom_app;;https://github.com/ammarisme/flutter_ecom_app;Dart / C++ / CMake / HTML / Swift / C / Other;Apr 17
 flutter_kiosk;flutter kiosk;https://github.com/ammarisme/flutter_kiosk;Dart / C++ / CMake / HTML / Swift / C / Other;Feb 11
-kiosk-dashboard-nextjs;;https://github.com/ammarisme/kiosk-dashboard-nextjs;TypeScript / Other;Feb 10
-kiosk-socketio;;https://github.com/ammarisme/kiosk-socketio;JavaScript / HTML / Dockerfile;Feb 10
-promotions-backend-api-nestjs;;https://github.com/ammarisme/promotions-backend-api-nestjs;TypeScript / JavaScript / Dockerfile;Feb 10
+kiosk-dashboard-nextjs;;https://github.com/ammarisme/kiosk-dashboard-nextjs;TypeScript / Other / React / TypeScript / Emotion / ESLint / Prettier;Feb 10
+kiosk-socketio;;https://github.com/ammarisme/kiosk-socketio;JavaScript / HTML / Dockerfile / Express;Feb 10
+promotions-backend-api-nestjs;;https://github.com/ammarisme/promotions-backend-api-nestjs;TypeScript / JavaScript / Dockerfile / NestJS / Jest / TypeScript / ESLint / Prettier / TypeORM;Feb 10
 thesellerstackhomesite;;https://github.com/ammarisme/thesellerstackhomesite;HTML / Hack / JavaScript;Feb 4
-retail-promo-platform-react;;https://github.com/ammarisme/retail-promo-platform-react;JavaScript / Other;Feb 4
+retail-promo-platform-react;;https://github.com/ammarisme/retail-promo-platform-react;JavaScript / Other / React / Redux / Prettier / Testing Library;Feb 4
 odoo-customization;;https://github.com/ammarisme/odoo-customization;JavaScript / SCSS / Dockerfile;Jan 28
 odoo-erp;;https://github.com/ammarisme/odoo-erp;Dockerfile;Jan 24
 how-to-run-a-software-company;How to run a Software Company.?;https://github.com/ammarisme/how-to-run-a-software-company;Python;Dec 6, 2023
 flutter-app;;https://github.com/ammarisme/flutter-app;;Nov 18, 2023
-react-flow-mmap;;https://github.com/ammarisme/react-flow-mmap;TypeScript / CSS / HTML;Apr 30, 2023
+react-flow-mmap;;https://github.com/ammarisme/react-flow-mmap;TypeScript / CSS / HTML / React / TypeScript;Apr 30, 2023
 docs-ei;Forked from wso2/docs-ei;https://github.com/ammarisme/docs-ei;CSS / HTML / JavaScript / Java / Ballerina / Nunjucks;Apr 26, 2023
 docs-apim;Forked from wso2/docs-apim;https://github.com/ammarisme/docs-apim;Java / CSS / HTML / Shell / PowerShell / JavaScript / Other;Apr 21, 2023
 mi-example-scenarios;;https://github.com/ammarisme/mi-example-scenarios;;Apr 20, 2023
@@ -75,7 +75,7 @@ wso2-apim-multiarch-tutorials;;https://github.com/ammarisme/wso2-apim-multiarch-
 wso2-apim-tutorials;A tutorial project to test out WSO2 APIM.;https://github.com/ammarisme/wso2-apim-tutorials;Shell / Dockerfile;Mar 21, 2023
 micro-integrattor-samples;;https://github.com/ammarisme/micro-integrattor-samples;;Mar 20, 2023
 aws-lamda-api;Repository for Lambda application aws-lambda-dynamo;https://github.com/ammarisme/aws-lamda-api;JavaScript / TypeScript;Mar 11, 2023
-graphql-test;;https://github.com/ammarisme/graphql-test;TypeScript / JavaScript;Mar 11, 2023
-react-mindmap;;https://github.com/ammarisme/react-mindmap;JavaScript / HTML / CSS;Mar 10, 2023
+graphql-test;;https://github.com/ammarisme/graphql-test;TypeScript / JavaScript / NestJS / Jest / TypeScript / ESLint / Prettier;Mar 11, 2023
+react-mindmap;;https://github.com/ammarisme/react-mindmap;JavaScript / HTML / CSS / React / Jest / Webpack / Babel / Styled Components / ESLint / Prettier;Mar 10, 2023
 mui-fe;;https://github.com/ammarisme/mui-fe;JavaScript / CSS / HTML;Mar 10, 2023
 graphql-api-nestjs;;https://github.com/ammarisme/graphql-api-nestjs;;Mar 4, 2023
