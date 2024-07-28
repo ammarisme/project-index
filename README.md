@@ -1,6 +1,3 @@
-
-# Project Documentation
-
 ## Overview
 The goal of this project is to create an index CSV file of all projects belonging to the user. The project consists of several files and scripts organized in a specific structure. Below is an explanation of each file and its role in the project.
 
